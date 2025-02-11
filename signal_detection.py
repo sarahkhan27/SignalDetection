@@ -1,3 +1,5 @@
+# Acknowledging referance to/ help from some website tools for fixing codes/ errors
+
 import scipy.stats as stats
 
 class SignalDetection:
