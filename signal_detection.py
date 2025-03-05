@@ -1,4 +1,4 @@
-# Acknowledging referance to/ help from some website tools for fixing codes/ errors
+# Acknowledging referance to and help from some website tools for fixing codes/ errors
 
 import scipy.stats as stats
 
